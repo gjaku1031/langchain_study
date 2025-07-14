@@ -1,0 +1,10 @@
+[DEBUG] Writing to temp file: /Users/ken/.claude.json.tmp.69589.1752294044871
+[DEBUG] Preserving file permissions: 100644
+[DEBUG] Temp file written successfully, size: 23458 bytes
+[DEBUG] Applied original permissions to temp file
+[DEBUG] Renaming /Users/ken/.claude.json.tmp.69589.1752294044871 to /Users/ken/.claude.json
+[DEBUG] File /Users/ken/.claude.json written atomically
+[DEBUG] Writing to temp file: /Users/ken/.claude/todos/e019bcff-66b2-4e03-871b-4fc7fa46b5bb-agent-e019bcff-66b2-4e03-871b-4fc7fa46b5bb.json.tmp.69589.1752294044953
+[DEBUG] Temp file written successfully, size: 2 bytes
+[DEBUG] Renaming /Users/ken/.claude/todos/e019bcff-66b2-4e03-871b-4fc7fa46b5bb-agent-e019bcff-66b2-4e03-871b-4fc7fa46b5bb.json.tmp.69589.1752294044953 to /Users/ken/.claude/todos/e019bcff-66b2-4e03-871b-4fc7fa46b5bb-agent-e019bcff-66b2-4e03-871b-4fc7fa46b5bb.json
+[DEBUG] File /Users/ken/.claude/todos/e019bcff-66b2-4e03-871b-4fc7fa46b5bb-agent-e019bcff-66b2-4e03-871b-4fc7fa46b5bb.json written atomically
